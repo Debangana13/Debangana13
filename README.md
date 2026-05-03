@@ -17,9 +17,10 @@ Agentic pipelines with LangGraph · FastAPI backend · React + TypeScript fronte
 
 | Project | Stack | Highlight |
 |---|---|---|
-| [GraphRAG Knowledge System](#) | Neo4j · FAISS · LLaMA 3.1 · Chainlit · Docker | Live on HuggingFace Spaces |
-| [Summarization + Self-Updating Chatbot](#) | TensorFlow · FAISS · LangChain · Streamlit | 87% summarization accuracy |
+| [GraphRAG Knowledge System](https://github.com/Debangana13/advanced-knowledge-graph-intelligence-system) | Neo4j · FAISS · LLaMA 3.1 · Chainlit · Docker | Live on HuggingFace Spaces |
+| [Summarization + Self-Updating Chatbot](https://github.com/Debangana13/Tasks) | TensorFlow · FAISS · LangChain · Streamlit | 87% summarization accuracy |
 | [Time-Series & Sales Forecasting](#) | Python · scikit-learn | Humidity prediction + car dealership models |
+| [Autosite](https://github.com/Debangana13/AutoSiteAI) | Spring Boot · Spring Security · Thymeleaf | AI integration in progress |
 
 ---
 
